@@ -51,3 +51,9 @@
 [06Mar2025 00:47:44.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [06Mar2025 00:48:31.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [06Mar2025 00:49:30.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Mar2025 00:50:55.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Mar2025 00:53:42.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Timed out
+[06Mar2025 00:53:42.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
+[06Mar2025 00:53:42.316] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Mar2025 00:57:48.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YizuzD lost connection: Disconnected
+[06Mar2025 00:57:48.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD left the game
