@@ -11048,3 +11048,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [06Mar2025 00:57:48.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD left the game
 [06Mar2025 00:58:24.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [06Mar2025 00:58:24.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[06Mar2025 01:03:24.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[06Mar2025 01:03:24.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[06Mar2025 01:08:24.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[06Mar2025 01:08:24.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
