@@ -12275,5 +12275,17 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-06 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-03-06 03:56:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
