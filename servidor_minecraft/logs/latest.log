@@ -57,3 +57,18 @@
 [06Mar2025 00:53:42.316] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [06Mar2025 00:57:48.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YizuzD lost connection: Disconnected
 [06Mar2025 00:57:48.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD left the game
+[06Mar2025 01:29:08.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo_16[/127.226.76.9:49693] logged in with entity id 169968 at (-423.8998135192555, 79.0, 48.15216764011745)
+[06Mar2025 01:29:08.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 joined the game
+[06Mar2025 01:29:08.732] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
+[06Mar2025 01:29:08.733] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
+[06Mar2025 01:29:08.733] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
+[06Mar2025 01:29:26.433] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
+[06Mar2025 01:29:57.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Disconnected
+[06Mar2025 01:29:57.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
+[06Mar2025 01:30:23.026] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@579ce7c1[id=<null>,name=Andrexo_16,properties={},legacy=false] (/127.226.76.9:60075) lost connection: Disconnected
+[06Mar2025 01:30:41.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo_16[/127.226.76.9:34097] logged in with entity id 173614 at (-423.8998135192555, 79.0, 48.15216764011745)
+[06Mar2025 01:30:41.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 joined the game
+[06Mar2025 01:30:41.769] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
+[06Mar2025 01:30:41.770] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
+[06Mar2025 01:30:41.770] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
+[06Mar2025 01:30:57.218] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
