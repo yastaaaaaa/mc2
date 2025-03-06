@@ -10937,3 +10937,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [06Mar2025 00:06:45.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [06Mar2025 00:08:00.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [06Mar2025 00:08:55.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06Mar2025 00:10:16.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[06Mar2025 00:11:24.857] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:copper_nugget" - querying recipes to get these
+[06Mar2025 00:11:27.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Mar2025 00:11:28.956] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_nugget" - querying recipes to get these
+[06Mar2025 00:11:34.498] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[06Mar2025 00:11:41.662] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "createaddition:electrum_ingot" - querying recipes to get these
+[06Mar2025 00:11:42.587] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
+[06Mar2025 00:11:42.783] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:zinc_ingot" - querying recipes to get these
+[06Mar2025 00:11:54.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[06Mar2025 00:11:54.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[06Mar2025 00:12:11.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06Mar2025 00:13:09.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Mar2025 00:14:09.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Mar2025 00:14:56.785] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Mar2025 00:15:18.725] [Server thread/DEBUG] [mixin/]: Mixing contraption.ContainerLevelAccessMixin from create_connected.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[06Mar2025 00:15:18.725] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:contraption.ContainerLevelAccessMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[06Mar2025 00:15:18.727] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$Anonymous$1d1ae2f95c474859900132e1e29c1647 (originally com/hlysine/create_connected/mixin/contraption/ContainerLevelAccessMixin$1)
+[06Mar2025 00:17:00.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[06Mar2025 00:17:00.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[06Mar2025 00:18:08.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Mar2025 00:19:42.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
