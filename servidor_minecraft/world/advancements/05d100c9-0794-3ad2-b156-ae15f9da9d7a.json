@@ -12293,6 +12293,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-03-07 02:37:36 +0000"
+    },
+    "done": true
+  },
   "create:crusher_maxed_0000": {
     "criteria": {
       "0": "2025-03-07 01:45:34 +0000"
