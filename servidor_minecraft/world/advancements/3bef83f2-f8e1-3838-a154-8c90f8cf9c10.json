@@ -38,6 +38,7 @@
       "minecraft:lush_caves": "2025-01-10 22:07:22 +0000",
       "minecraft:deep_cold_ocean": "2025-01-08 03:06:34 +0000",
       "minecraft:frozen_ocean": "2025-01-10 18:49:21 +0000",
+      "minecraft:desert": "2025-03-07 03:24:53 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-10 18:49:51 +0000",
       "minecraft:ocean": "2024-12-22 02:40:38 +0000",
       "minecraft:jungle": "2025-01-12 21:47:07 +0000",
@@ -12733,15 +12734,51 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/steel_block": {
     "criteria": {
       "has_steel_block": "2025-03-07 00:23:18 +0000"
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/shaftless_cogwheel": {
     "criteria": {
       "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
     },
     "done": true
   },
@@ -12757,15 +12794,45 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
     "criteria": {
       "has_item": "2025-03-07 00:23:18 +0000"
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair": {
+    "criteria": {
+      "has_the_recipe": "2025-03-07 03:18:25 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
     "criteria": {
       "has_item": "2025-03-07 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
     },
     "done": true
   },
@@ -12781,6 +12848,18 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/track_observer": {
     "criteria": {
       "has_item": "2025-03-07 02:47:53 +0000"
@@ -12793,9 +12872,33 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/small_large_half_shaft_cogwheel_to_large/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
     },
     "done": true
   },
@@ -12817,6 +12920,24 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-03-07 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/train_door": {
     "criteria": {
       "has_item": "2025-03-07 02:47:53 +0000"
@@ -12835,6 +12956,24 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/controls": {
     "criteria": {
       "has_item": "2025-03-07 02:47:53 +0000"
@@ -12847,9 +12986,27 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
     },
     "done": true
   },
@@ -12859,9 +13016,57 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
   "create:train_casing_00": {
     "criteria": {
       "0": "2025-03-07 02:47:18 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2025-03-07 03:18:26 +0000"
     },
     "done": true
   },
