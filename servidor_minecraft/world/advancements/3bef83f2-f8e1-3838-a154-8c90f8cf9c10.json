@@ -12757,6 +12757,12 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-07 02:27:59 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2025-03-07 01:17:59 +0000"

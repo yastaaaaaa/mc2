@@ -12287,9 +12287,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-07 02:25:03 +0000"
+    },
+    "done": true
+  },
   "create:crusher_maxed_0000": {
     "criteria": {
       "0": "2025-03-07 01:45:34 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-03-07 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-07 02:25:03 +0000"
     },
     "done": true
   },
