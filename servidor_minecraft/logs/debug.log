@@ -12057,3 +12057,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [07Mar2025 02:46:36.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [07Mar2025 02:47:18.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [The Logistical Age]
 [07Mar2025 02:47:28.355] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:zinc_block" - querying recipes to get these
+[07Mar2025 02:49:01.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Mar2025 02:49:27.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[07Mar2025 02:49:27.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[07Mar2025 02:51:26.222] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
+[07Mar2025 02:54:26.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[07Mar2025 02:54:26.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
