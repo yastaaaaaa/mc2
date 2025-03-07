@@ -11791,3 +11791,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [07Mar2025 01:14:09.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YizuzD moved wrongly!
 [07Mar2025 01:15:36.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [07Mar2025 01:15:36.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[07Mar2025 01:20:35.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[07Mar2025 01:20:35.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[07Mar2025 01:22:13.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Mar2025 01:23:08.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Mar2025 01:24:24.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Mar2025 01:25:42.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[07Mar2025 01:25:42.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[07Mar2025 01:26:04.911] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:zinc_nugget" - querying recipes to get these
+[07Mar2025 01:26:06.283] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:copper_nugget" - querying recipes to get these
+[07Mar2025 01:26:07.414] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_nugget" - querying recipes to get these
+[07Mar2025 01:26:08.617] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_nugget" - querying recipes to get these
+[07Mar2025 01:26:08.967] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:flint" - querying recipes to get these
+[07Mar2025 01:26:31.633] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
