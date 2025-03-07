@@ -12727,5 +12727,17 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2025-03-07 00:23:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2025-03-07 00:23:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
