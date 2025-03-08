@@ -13148,5 +13148,11 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-03-08 16:45:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
