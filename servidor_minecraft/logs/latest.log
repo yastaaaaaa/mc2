@@ -1360,3 +1360,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [08Mar2025 19:12:41.337] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
 [08Mar2025 19:16:00.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YizuzD lost connection: Disconnected
 [08Mar2025 19:16:00.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD left the game
+[08Mar2025 19:23:49.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Disconnected
+[08Mar2025 19:23:49.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
