@@ -1276,3 +1276,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [08Mar2025 17:35:04.887] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
 [08Mar2025 17:35:04.890] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
 [08Mar2025 17:35:15.943] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
+[08Mar2025 17:54:33.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=0, z=235} BlockPos{x=-78, y=2, z=235}
+[08Mar2025 17:54:34.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=0, z=235} BlockPos{x=-78, y=1, z=235}
+[08Mar2025 18:02:54.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YizuzD[/127.11.117.120:43857] logged in with entity id 2531 at (-878.9998128653855, 54.0, -2552.2110909475273)
+[08Mar2025 18:02:54.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD joined the game
+[08Mar2025 18:02:55.015] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'YizuzD'
+[08Mar2025 18:02:55.016] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'YizuzD'
+[08Mar2025 18:02:55.017] [Server thread/INFO] [Jade/]: Syncing config to YizuzD (05d100c9-0794-3ad2-b156-ae15f9da9d7a)
