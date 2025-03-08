@@ -10698,3 +10698,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [08Mar2025 02:28:00.862] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
 [08Mar2025 02:28:00.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
 [08Mar2025 02:28:23.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! 10.269815475084897,-1.030070537680018,0.18704569995935572
+[08Mar2025 02:32:33.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[08Mar2025 02:32:33.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[08Mar2025 02:37:33.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[08Mar2025 02:37:33.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
