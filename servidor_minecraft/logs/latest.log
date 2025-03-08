@@ -1311,3 +1311,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [08Mar2025 18:41:40.861] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
 [08Mar2025 18:41:40.862] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
 [08Mar2025 18:41:59.230] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[08Mar2025 18:42:54.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-777, y=66, z=748} BlockPos{x=-777, y=64, z=748}
+[08Mar2025 18:43:03.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-775, y=63, z=748} BlockPos{x=-775, y=64, z=749}
+[08Mar2025 18:46:26.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-778, y=64, z=749} BlockPos{x=-776, y=66, z=751}
+[08Mar2025 18:46:26.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-778, y=64, z=749} BlockPos{x=-777, y=66, z=751}
+[08Mar2025 18:48:08.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/4720, l='ServerLevel[World]', x=-776.70, y=64.00, z=748.30] died, message: 'Cleric was killed by magic'
+[08Mar2025 18:49:28.651] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
+[08Mar2025 18:49:51.438] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5381, l='ServerLevel[World]', x=-444.75, y=65.05, z=16.50, removed=DISCARDED]
+[08Mar2025 18:49:59.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08Mar2025 18:50:20.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5228ms or 104 ticks behind
+[08Mar2025 18:50:39.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[08Mar2025 18:50:43.318] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[08Mar2025 18:50:43.319] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[08Mar2025 18:50:43.319] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[08Mar2025 18:50:43.319] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[08Mar2025 18:50:44.837] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1117, y=-28, z=858}
+[08Mar2025 18:50:58.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4685ms or 93 ticks behind
+[08Mar2025 18:51:17.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
+[08Mar2025 18:51:38.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6097ms or 121 ticks behind
+[08Mar2025 18:51:59.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5502ms or 110 ticks behind
+[08Mar2025 18:52:18.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
