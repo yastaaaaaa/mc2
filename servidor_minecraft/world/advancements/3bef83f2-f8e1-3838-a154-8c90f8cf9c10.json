@@ -12728,9 +12728,153 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2025-03-07 00:23:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2025-03-07 00:23:18 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/large_shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/small_large_half_shaft_cogwheel_to_large/large_half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/small_large_shaftless_cogwheel_to_large/large_shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-07 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-07 02:27:59 +0000"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-03-07 02:47:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-03-07 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-07 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-03-07 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-03-07 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-03-07 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-03-07 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-03-07 02:47:53 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
     "criteria": {
       "has_item": "2025-03-07 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-03-07 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-03-07 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-03-07 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair": {
+    "criteria": {
+      "has_the_recipe": "2025-03-07 03:18:25 +0000"
     },
     "done": true
   },
@@ -12743,12 +12887,6 @@
   "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/steel_block": {
-    "criteria": {
-      "has_steel_block": "2025-03-07 00:23:18 +0000"
     },
     "done": true
   },
@@ -12770,27 +12908,9 @@
     },
     "done": true
   },
-  "extendedgears:recipes/extendedgears/crafting/shaftless_cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
-    },
-    "done": true
-  },
-  "extendedgears:recipes/create.base/crafting/cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
-  "extendedgears:recipes/extendedgears/crafting/large_shaftless_cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
     },
     "done": true
   },
@@ -12800,27 +12920,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
-    "criteria": {
-      "has_item": "2025-03-07 00:23:18 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
-    },
-    "done": true
-  },
-  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair": {
-    "criteria": {
-      "has_the_recipe": "2025-03-07 03:18:25 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
-    "criteria": {
-      "has_item": "2025-03-07 02:51:22 +0000"
     },
     "done": true
   },
@@ -12836,18 +12938,6 @@
     },
     "done": true
   },
-  "create:track_0": {
-    "criteria": {
-      "0": "2025-03-07 02:27:59 +0000"
-    },
-    "done": true
-  },
-  "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/chair/red_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
@@ -12857,18 +12947,6 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_observer": {
-    "criteria": {
-      "has_item": "2025-03-07 02:47:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
-    "criteria": {
-      "has_item": "2025-03-07 02:47:53 +0000"
     },
     "done": true
   },
@@ -12884,12 +12962,6 @@
     },
     "done": true
   },
-  "extendedgears:recipes/extendedgears/crafting/small_large_half_shaft_cogwheel_to_large/large_half_shaft_cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
@@ -12902,57 +12974,15 @@
     },
     "done": true
   },
-  "extendedgears:recipes/extendedgears/crafting/small_large_shaftless_cogwheel_to_large/large_shaftless_cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
-  "extendedgears:recipes/create.base/crafting/large_cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_station": {
-    "criteria": {
-      "has_item": "2025-03-07 02:47:53 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
     },
     "done": true
   },
-  "create:train": {
-    "criteria": {
-      "0": "2025-03-07 03:15:26 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/chair/black_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/train_door": {
-    "criteria": {
-      "has_item": "2025-03-07 02:47:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_signal": {
-    "criteria": {
-      "has_item": "2025-03-07 02:47:53 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
-    "criteria": {
-      "has_item": "2025-03-07 02:51:22 +0000"
     },
     "done": true
   },
@@ -12974,18 +13004,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/controls": {
-    "criteria": {
-      "has_item": "2025-03-07 02:47:53 +0000"
-    },
-    "done": true
-  },
-  "extendedgears:recipes/create.base/crafting/piston_extension_pole": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/chair/cyan_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
@@ -12998,21 +13016,9 @@
     },
     "done": true
   },
-  "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
-    "criteria": {
-      "has_item": "2025-03-07 01:17:59 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
-    "criteria": {
-      "has_item": "2025-03-07 02:47:53 +0000"
     },
     "done": true
   },
@@ -13052,12 +13058,6 @@
     },
     "done": true
   },
-  "create:train_casing_00": {
-    "criteria": {
-      "0": "2025-03-07 02:47:18 +0000"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
@@ -13067,6 +13067,84 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-07 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-03-07 03:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-07 03:39:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-07 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-07 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-07 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-07 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-03-07 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-07 03:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-07 03:52:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-03-07 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-03-07 04:16:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-03-07 04:17:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-03-08 02:18:49 +0000"
     },
     "done": true
   },
