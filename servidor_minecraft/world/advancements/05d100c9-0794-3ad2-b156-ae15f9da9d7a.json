@@ -12413,6 +12413,12 @@
     },
     "done": true
   },
+  "sons_of_sins:original_sin": {
+    "criteria": {
+      "original_sin_0": "2025-03-08 19:09:29 +0000"
+    },
+    "done": true
+  },
   "sons_of_sins:slimy_and_satisfying": {
     "criteria": {
       "slimy_and_satisfying_0": "2025-03-08 18:36:12 +0000"

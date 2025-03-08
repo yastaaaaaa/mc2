@@ -11002,3 +11002,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [08Mar2025 19:02:10.593] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:zinc_ingot" - querying recipes to get these
 [08Mar2025 19:02:35.444] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dried_kelp" - querying recipes to get these
 [08Mar2025 19:02:35.445] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dried_kelp_block" - querying recipes to get these
+[08Mar2025 19:02:46.269] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[08Mar2025 19:02:46.447] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5381, l='ServerLevel[World]', x=-444.75, y=65.05, z=16.50, removed=DISCARDED]
+[08Mar2025 19:02:46.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[08Mar2025 19:02:46.664] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
+[08Mar2025 19:03:02.090] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "createaddition:electrum_ingot" - querying recipes to get these
+[08Mar2025 19:04:38.291] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[08Mar2025 19:04:40.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[08Mar2025 19:04:40.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[08Mar2025 19:06:44.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! 12.262552872460901,2.0,-12.189699138672747
+[08Mar2025 19:07:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 was killed by magic
+[08Mar2025 19:07:03.528] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5381, l='ServerLevel[World]', x=-444.75, y=65.05, z=16.50, removed=DISCARDED]
+[08Mar2025 19:07:03.580] [Server thread/DEBUG] [twilightforest/]: Player Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10) respawned and received items held in storage
+[08Mar2025 19:07:03.707] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
+[08Mar2025 19:08:44.169] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5381, l='ServerLevel[World]', x=-444.75, y=65.05, z=16.50, removed=DISCARDED]
+[08Mar2025 19:08:55.550] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5381, l='ServerLevel[World]', x=-444.75, y=65.05, z=16.50, removed=DISCARDED]
+[08Mar2025 19:09:19.239] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
+[08Mar2025 19:09:29.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has reached the goal [It's...Alive?]
+[08Mar2025 19:09:35.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=70, z=6} BlockPos{x=-460, y=64, z=31}
+[08Mar2025 19:09:35.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=70, z=6} BlockPos{x=-460, y=64, z=32}
+[08Mar2025 19:09:40.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[08Mar2025 19:09:40.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[08Mar2025 19:11:25.554] [Server thread/INFO] [do_a_barrel_roll/]: Client of Andrexo_16 accepted server config.
+[08Mar2025 19:11:54.603] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_block" - querying recipes to get these
+[08Mar2025 19:12:02.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=59, z=32} BlockPos{x=-327, y=61, z=33}
+[08Mar2025 19:12:07.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-329, y=59, z=32} BlockPos{x=-329, y=61, z=31}
+[08Mar2025 19:12:24.905] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5381, l='ServerLevel[World]', x=-444.75, y=65.05, z=16.50, removed=DISCARDED]
+[08Mar2025 19:12:41.337] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
