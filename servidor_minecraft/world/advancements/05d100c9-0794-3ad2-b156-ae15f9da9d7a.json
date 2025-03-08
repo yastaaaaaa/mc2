@@ -12413,5 +12413,23 @@
     },
     "done": true
   },
+  "sons_of_sins:slimy_and_satisfying": {
+    "criteria": {
+      "slimy_and_satisfying_0": "2025-03-08 18:36:12 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:ash_diamond": {
+    "criteria": {
+      "ash_diamond_0": "2025-03-08 18:35:01 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:freddys_favorite_alloy": {
+    "criteria": {
+      "freddys_favorite_alloy_0": "2025-03-08 18:35:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

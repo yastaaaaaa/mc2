@@ -13154,5 +13154,11 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-03-08 18:22:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
