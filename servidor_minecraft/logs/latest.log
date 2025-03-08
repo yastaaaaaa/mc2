@@ -1283,3 +1283,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [08Mar2025 18:02:55.015] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'YizuzD'
 [08Mar2025 18:02:55.016] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'YizuzD'
 [08Mar2025 18:02:55.017] [Server thread/INFO] [Jade/]: Syncing config to YizuzD (05d100c9-0794-3ad2-b156-ae15f9da9d7a)
+[08Mar2025 18:03:09.305] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:05:03.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has completed the challenge [The Extinguished Fire]
+[08Mar2025 18:05:29.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Mar2025 18:10:15.974] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:10:19.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[08Mar2025 18:10:38.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4245ms or 84 ticks behind
+[08Mar2025 18:12:09.731] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:12:30.115] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:12:41.622] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.

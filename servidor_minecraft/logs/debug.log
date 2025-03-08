@@ -10920,3 +10920,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [08Mar2025 18:02:55.016] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to YizuzD
 [08Mar2025 18:02:55.017] [Server thread/INFO] [Jade/]: Syncing config to YizuzD (05d100c9-0794-3ad2-b156-ae15f9da9d7a)
 [08Mar2025 18:02:57.300] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Mar2025 18:03:09.305] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:03:51.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[08Mar2025 18:03:51.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[08Mar2025 18:05:03.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has completed the challenge [The Extinguished Fire]
+[08Mar2025 18:05:29.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Mar2025 18:05:55.582] [Server thread/DEBUG] [mixin/]: Mixing contraption.ContainerLevelAccessMixin from create_connected.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[08Mar2025 18:05:55.582] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:contraption.ContainerLevelAccessMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[08Mar2025 18:05:55.585] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$Anonymous$e59cb743f9ac4cb0884eb5d9fca677b6 (originally com/hlysine/create_connected/mixin/contraption/ContainerLevelAccessMixin$1)
+[08Mar2025 18:08:51.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[08Mar2025 18:08:51.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[08Mar2025 18:10:15.974] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:10:19.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[08Mar2025 18:10:25.420] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_nugget" - querying recipes to get these
+[08Mar2025 18:10:25.438] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[08Mar2025 18:10:33.578] [Server thread/DEBUG] [mixin/]: Mixing FillingBySpoutMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.spout.FillingBySpout
+[08Mar2025 18:10:33.579] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:FillingBySpoutMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[08Mar2025 18:10:38.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4245ms or 84 ticks behind
+[08Mar2025 18:10:47.909] [Server thread/DEBUG] [mixin/]: Mixing VibrationSystemListenerMixin from botania_xplat.mixins.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[08Mar2025 18:10:47.909] [Server thread/DEBUG] [mixin/]: Mixing VibrationListenerMixin from mixins.deeperdarker.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[08Mar2025 18:10:48.876] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:zinc_nugget" - querying recipes to get these
+[08Mar2025 18:10:49.393] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:copper_nugget" - querying recipes to get these
+[08Mar2025 18:11:00.521] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_nugget" - querying recipes to get these
+[08Mar2025 18:11:00.529] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[08Mar2025 18:11:00.530] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_block" - querying recipes to get these
+[08Mar2025 18:11:01.420] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "createaddition:electrum_nugget" - querying recipes to get these
+[08Mar2025 18:11:14.880] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "createaddition:electrum_ingot" - querying recipes to get these
+[08Mar2025 18:12:09.731] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:12:30.115] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
+[08Mar2025 18:12:32.443] [Server thread/DEBUG] [mixin/]: Mixing copycat.stairs.StructureTransformMixin from create_connected.mixins.json into com.simibubi.create.content.contraptions.StructureTransform
+[08Mar2025 18:12:32.443] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:copycat.stairs.StructureTransformMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[08Mar2025 18:12:41.622] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.

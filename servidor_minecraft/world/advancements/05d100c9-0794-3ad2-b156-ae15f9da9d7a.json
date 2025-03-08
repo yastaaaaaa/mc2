@@ -12407,5 +12407,11 @@
     },
     "done": true
   },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-03-08 18:05:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
