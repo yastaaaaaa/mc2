@@ -12413,9 +12413,15 @@
     },
     "done": true
   },
-  "sons_of_sins:original_sin": {
+  "sons_of_sins:ash_diamond": {
     "criteria": {
-      "original_sin_0": "2025-03-08 19:09:29 +0000"
+      "ash_diamond_0": "2025-03-08 18:35:01 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:freddys_favorite_alloy": {
+    "criteria": {
+      "freddys_favorite_alloy_0": "2025-03-08 18:35:47 +0000"
     },
     "done": true
   },
@@ -12425,21 +12431,21 @@
     },
     "done": true
   },
-  "sons_of_sins:ash_diamond": {
-    "criteria": {
-      "ash_diamond_0": "2025-03-08 18:35:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-03-08 18:39:15 +0000"
     },
     "done": true
   },
-  "sons_of_sins:freddys_favorite_alloy": {
+  "sons_of_sins:original_sin": {
     "criteria": {
-      "freddys_favorite_alloy_0": "2025-03-08 18:35:47 +0000"
+      "original_sin_0": "2025-03-08 19:09:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-03-11 23:49:40 +0000"
     },
     "done": true
   },
