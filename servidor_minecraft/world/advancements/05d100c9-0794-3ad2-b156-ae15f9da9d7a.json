@@ -12443,15 +12443,57 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_pylon": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/goddess_charm": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet_alt": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-12 00:21:26 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/third_eye": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_petal_block": {
     "criteria": {
       "has_item": "2025-03-11 23:59:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_gun": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
     },
     "done": true
   },
@@ -12473,6 +12515,18 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar_alt": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/blue_shiny_flower": {
     "criteria": {
       "has_item": "2025-03-12 00:21:22 +0000"
@@ -12491,9 +12545,21 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/avatar": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_orange": {
     "criteria": {
       "has_item": "2025-03-11 23:59:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/divining_rod": {
+    "criteria": {
+      "has_item": "2025-03-12 00:35:39 +0000"
     },
     "done": true
   },

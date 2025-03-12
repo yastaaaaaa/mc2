@@ -11224,3 +11224,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [12Mar2025 00:31:49.804] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dried_kelp_block" - querying recipes to get these
 [12Mar2025 00:34:00.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [12Mar2025 00:34:00.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 00:38:37.293] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
+[12Mar2025 00:39:00.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 00:39:00.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 00:44:00.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 00:44:00.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 00:45:40.597] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:zinc_block" - querying recipes to get these
