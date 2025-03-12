@@ -32,3 +32,46 @@
 [12Mar2025 01:47:24.213] [Server thread/INFO] [do_a_barrel_roll/]: Client of YizuzD accepted server config.
 [12Mar2025 01:48:33.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YizuzD lost connection: Disconnected
 [12Mar2025 01:48:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD left the game
+[12Mar2025 01:49:42.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Mar2025 01:49:43.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Mar2025 01:49:43.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Mar2025 01:49:43.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Mar2025 01:49:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
+[12Mar2025 01:49:43.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/aether:the_aether
+[12Mar2025 01:49:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:mars_orbit
+[12Mar2025 01:49:43.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/twilightforest:twilight_forest
+[12Mar2025 01:49:43.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:venus_orbit
+[12Mar2025 01:49:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_end
+[12Mar2025 01:49:43.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/deeperdarker:otherside
+[12Mar2025 01:49:43.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:earth_orbit
+[12Mar2025 01:49:43.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:moon
+[12Mar2025 01:49:43.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:mars
+[12Mar2025 01:49:43.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:moon_orbit
+[12Mar2025 01:49:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:venus
+[12Mar2025 01:49:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:mercury
+[12Mar2025 01:49:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:glacio_orbit
+[12Mar2025 01:49:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_nether
+[12Mar2025 01:49:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:glacio
+[12Mar2025 01:49:43.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/ad_astra:mercury_orbit
+[12Mar2025 01:49:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Mar2025 01:49:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[12Mar2025 01:49:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[12Mar2025 01:49:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[12Mar2025 01:49:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[12Mar2025 01:49:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[12Mar2025 01:49:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Mar2025 01:49:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[12Mar2025 01:49:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[12Mar2025 01:49:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Mar2025 01:49:43.303] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Mar2025 01:49:43.304] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[12Mar2025 01:49:43.306] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[12Mar2025 01:49:43.307] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
