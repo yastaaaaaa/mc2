@@ -5,3 +5,4 @@
 [12Mar2025 00:28:21.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=64, z=104} BlockPos{x=-462, y=63, z=103}
 [12Mar2025 00:29:39.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=64, z=101} BlockPos{x=-462, y=63, z=101}
 [12Mar2025 00:29:39.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=63, z=100} BlockPos{x=-462, y=63, z=101}
+[12Mar2025 00:53:33.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YizuzD moved wrongly!

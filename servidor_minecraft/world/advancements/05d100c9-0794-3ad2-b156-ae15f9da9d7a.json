@@ -12473,9 +12473,21 @@
     },
     "done": true
   },
+  "botania:recipes/combat/terrasteel_helmet": {
+    "criteria": {
+      "has_prev_tier": "2025-03-12 00:45:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/auto_crafting_halo": {
     "criteria": {
       "has_item": "2025-03-12 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_leggings": {
+    "criteria": {
+      "has_prev_tier": "2025-03-12 00:45:52 +0000"
     },
     "done": true
   },
@@ -12488,6 +12500,18 @@
   "botania:recipes/decorations/orange_petal_block": {
     "criteria": {
       "has_item": "2025-03-11 23:59:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_boots": {
+    "criteria": {
+      "has_prev_tier": "2025-03-12 00:45:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_chestplate": {
+    "criteria": {
+      "has_prev_tier": "2025-03-12 00:45:55 +0000"
     },
     "done": true
   },
