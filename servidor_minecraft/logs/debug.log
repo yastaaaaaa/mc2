@@ -11215,3 +11215,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [12Mar2025 00:21:41.699] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_block" - querying recipes to get these
 [12Mar2025 00:24:00.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [12Mar2025 00:24:00.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 00:28:21.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=64, z=104} BlockPos{x=-462, y=63, z=103}
+[12Mar2025 00:29:00.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 00:29:00.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 00:29:39.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=64, z=101} BlockPos{x=-462, y=63, z=101}
+[12Mar2025 00:29:39.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=63, z=100} BlockPos{x=-462, y=63, z=101}
+[12Mar2025 00:31:43.004] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dried_kelp" - querying recipes to get these
+[12Mar2025 00:31:49.804] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dried_kelp_block" - querying recipes to get these
+[12Mar2025 00:34:00.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 00:34:00.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
