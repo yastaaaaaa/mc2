@@ -11243,3 +11243,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [12Mar2025 00:59:00.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [12Mar2025 01:04:00.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [12Mar2025 01:04:00.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 01:09:00.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 01:09:00.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 01:11:23.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-460, y=64, z=99} BlockPos{x=-461, y=63, z=101}
+[12Mar2025 01:14:00.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 01:14:00.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 01:16:48.396] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
