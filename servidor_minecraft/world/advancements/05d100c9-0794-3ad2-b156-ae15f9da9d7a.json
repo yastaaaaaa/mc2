@@ -12473,6 +12473,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-03-12 01:02:21 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terrasteel_helmet": {
     "criteria": {
       "has_prev_tier": "2025-03-12 00:45:54 +0000"
@@ -12488,6 +12494,12 @@
   "botania:recipes/combat/terrasteel_leggings": {
     "criteria": {
       "has_prev_tier": "2025-03-12 00:45:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-03-12 01:02:21 +0000"
     },
     "done": true
   },
