@@ -12443,9 +12443,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/orange_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-11 23:59:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2025-03-11 23:49:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-11 23:59:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2025-03-11 23:59:19 +0000"
     },
     "done": true
   },

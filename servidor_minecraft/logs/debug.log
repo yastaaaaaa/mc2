@@ -11194,3 +11194,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [11Mar2025 23:51:32.105] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
 [11Mar2025 23:54:00.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [11Mar2025 23:54:00.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Mar2025 23:57:51.271] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "create:zinc_block" - querying recipes to get these
+[11Mar2025 23:59:00.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Mar2025 23:59:00.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Mar2025 23:59:44.895] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
+[12Mar2025 00:04:00.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 00:04:00.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 00:04:45.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-467, y=64, z=101} BlockPos{x=-467, y=63, z=101}
+[12Mar2025 00:06:27.150] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_block" - querying recipes to get these
+[12Mar2025 00:07:12.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-464, y=64, z=100} BlockPos{x=-467, y=63, z=104}
+[12Mar2025 00:09:00.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 00:09:00.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Mar2025 00:11:24.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-469, y=64, z=101} BlockPos{x=-468, y=63, z=101}
+[12Mar2025 00:12:31.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-473, y=64, z=101} BlockPos{x=-474, y=63, z=101}
+[12Mar2025 00:14:00.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Mar2025 00:14:00.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
