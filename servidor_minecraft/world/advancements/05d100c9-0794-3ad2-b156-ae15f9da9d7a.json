@@ -12443,6 +12443,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-12 00:21:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_petal_block": {
     "criteria": {
       "has_item": "2025-03-11 23:59:19 +0000"
@@ -12455,15 +12461,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-03-12 00:21:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-03-12 00:21:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-12 00:21:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-11 23:59:19 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-03-12 00:21:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_orange": {
     "criteria": {
       "has_item": "2025-03-11 23:59:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-12 00:21:26 +0000"
     },
     "done": true
   },
