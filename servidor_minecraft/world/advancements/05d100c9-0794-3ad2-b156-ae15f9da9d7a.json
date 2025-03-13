@@ -12725,6 +12725,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2025-03-13 02:25:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/vivid_seeds": {
     "criteria": {
       "has_item": "2025-03-13 01:58:20 +0000"
@@ -12755,6 +12761,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/cobble_rod": {
+    "criteria": {
+      "has_alt_item": "2025-03-13 02:25:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dry_seeds": {
     "criteria": {
       "has_item": "2025-03-13 01:58:20 +0000"
@@ -12767,9 +12779,27 @@
     },
     "done": true
   },
+  "botania:main/cacophonium_craft": {
+    "criteria": {
+      "cacophonium": "2025-03-13 02:27:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/drum_wild": {
     "criteria": {
       "has_item": "2025-03-13 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2025-03-13 02:25:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-03-13 02:25:35 +0000"
     },
     "done": true
   },
