@@ -11241,3 +11241,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [13Mar2025 02:09:31.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_block" - querying recipes to get these
 [13Mar2025 02:11:21.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [13Mar2025 02:11:21.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[13Mar2025 02:16:21.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[13Mar2025 02:16:21.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[13Mar2025 02:21:22.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[13Mar2025 02:21:22.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
