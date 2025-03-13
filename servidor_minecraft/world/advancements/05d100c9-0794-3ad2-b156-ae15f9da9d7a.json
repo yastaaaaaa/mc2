@@ -12737,6 +12737,12 @@
     },
     "done": true
   },
+  "botania:main/crafting_halo_craft": {
+    "criteria": {
+      "pool": "2025-03-13 02:02:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/infused_seeds": {
     "criteria": {
       "has_item": "2025-03-13 01:58:20 +0000"
